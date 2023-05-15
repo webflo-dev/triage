@@ -11,3 +11,4 @@
 | [bash-shortcuts-cheat-sheet](https://github.com/webflo-dev/triage/tree/bash-shortcuts-cheat-sheet) | https://github.com/fliptheweb/bash-shortcuts-cheat-sheet | 
 | [simple-transducers](https://github.com/webflo-dev/triage/tree/simple-transducers) | ? |
 | ? | https://github.com/CorentinTh/it-tools |
+| [eol-dr](https://github.com/webflo-dev/triage/tree/eol-dr) | https://github.com/potatoqualitee/eol-dr |
