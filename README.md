@@ -10,3 +10,4 @@
 | js-transducers | https://github.com/SoatGroup/js-transducers |
 | [bash-shortcuts-cheat-sheet](https://github.com/webflo-dev/triage/tree/bash-shortcuts-cheat-sheet) | https://github.com/fliptheweb/bash-shortcuts-cheat-sheet | 
 | [simple-transducers](https://github.com/webflo-dev/triage/tree/simple-transducers) | ? |
+| ? | https://github.com/CorentinTh/it-tools |
