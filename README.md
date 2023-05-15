@@ -12,3 +12,4 @@
 | [simple-transducers](https://github.com/webflo-dev/triage/tree/simple-transducers) | ? |
 | ? | https://github.com/CorentinTh/it-tools |
 | [eol-dr](https://github.com/webflo-dev/triage/tree/eol-dr) | https://github.com/potatoqualitee/eol-dr |
+| [docker-rclone](https://github.com/webflo-dev/triage/tree/docker-rclone) | https://github.com/bcardiff/docker-rclone |
