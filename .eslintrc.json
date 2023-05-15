@@ -1,0 +1,53 @@
+{
+  "root": true,
+  "extends": [
+    "eslint:recommended"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module",
+    "allowImportExportEverywhere": true
+  },
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "no-console": 1,
+    "no-debugger":"off",
+    "semi": ["error", "always"],
+    "quotes": ["error", "single", { "allowTemplateLiterals": true }],
+    "quote-props": ["error", "consistent-as-needed"],
+    "indent": ["error", 2],
+    "eqeqeq": [2, "allow-null"],
+    "prefer-template": "error",
+
+    "no-multi-spaces": ["error", { "ignoreEOLComments": false }],
+    "space-in-parens": ["error", "always", {
+      "exceptions": ["{}", "[]", "empty", "()"]
+    }],
+    "object-curly-spacing": ["error", "always", {
+      "arraysInObjects": false,
+      "objectsInObjects": false
+    }],
+    "array-bracket-spacing": ["error", "always", {
+      "singleValue": false ,
+      "objectsInArrays": false,
+      "arraysInArrays": false
+    }],
+    "space-unary-ops": "error",
+    "block-spacing": "error",
+    "space-infix-ops": "error",
+    "lines-between-class-members": ["error", "always"],
+    "no-multiple-empty-lines": "error",
+    "padded-blocks": ["error", { "blocks": "never", "classes": "always" }],
+
+    "no-param-reassign":"off",
+    "prefer-object-spread" : 2,
+    "require-yield": "error",
+    "no-extra-boolean-cast":"off"
+
+  }
+}
